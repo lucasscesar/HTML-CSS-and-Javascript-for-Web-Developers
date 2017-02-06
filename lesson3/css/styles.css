@@ -1,0 +1,43 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #fff;
+  padding-top: 70px;
+}
+#header-nav{
+  background-color: #000;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand h1 {
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#nav-list>li>p{
+  color: #fff;
+  text-align: center;
+}
+#nav-list>li>p:hover {
+    background: #fff;
+    color:#000;
+}
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: #fff;
+}
+.container{
+  padding-right: 25px;
+  padding-left: 25px;
+}
+#menu div{
+  background-color: #eaebe8;
+  padding: 5px 10px;
+  margin-bottom: 50px;
+}
+#menu div:last-child{
+  margin-bottom: 0;
+}
+
